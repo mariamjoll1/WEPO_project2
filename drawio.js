@@ -1,7 +1,7 @@
 window.drawio = {
-    shapes = []
+    shapes = [],
+    other = [],
 }
 
+/* push frá branch*/
 
-
-//hæhæ
